@@ -63,6 +63,9 @@ public abstract class DbInitializerBeanBase implements DbInitializerLocalBusines
    protected EntityManager em;
 
    /**
+    * 
+    * feature_1
+    * 
     * Because @PostConstruct runs in an unspecified
     * Tx context (as invoked by the container), we'll
     * make one via this manager.  For EJBs that use
