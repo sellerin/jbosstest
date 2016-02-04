@@ -46,6 +46,7 @@ public abstract class DbInitializerBeanBase implements DbInitializerLocalBusines
    // Class Members ----------------------------------------------------------------------||
    //-------------------------------------------------------------------------------------||
 
+	
    /**
     * Logger
     */
